@@ -1,12 +1,4 @@
-## Bienvenue sur la page de mon projet de Gestion d’une école
+# Student-Dashboard
+A minimal, responsive and dynamic Student Dashboard  project made up using HTML, CSS &amp; JavaScript 
 
-Les étapes à suivre pour visualiser mon projet sont:
-
-1/Telecharger les fichiers.
-2/Selectionner le fichier projet_edacy.sql et l'importer dans son phpMyAdmin.
-3/Modifier les parametres de connexion de la base de donnée selon les votres dans tout les fichiers php comme suits
-  $servername = "localhost";
-  $username = "le nom";
-  $password = "le mot de pass";
-  $dbname = "le nom de la base de donées";
-
+![dashboard](https://user-images.githubusercontent.com/63731449/205628267-fdb8f7e9-f8df-42a4-b0f0-ef81c2e1c577.png)
